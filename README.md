@@ -2,11 +2,6 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeelnoohm&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelnoohm" /> </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakeelnoohm" alt="shakeelnoohm" /></a> </p>
 
