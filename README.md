@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeelnoohm&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelnoohm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakeelnoohm" alt="shakeelnoohm" /></a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 - 🔭 I’m currently working on **web development projects**
 
