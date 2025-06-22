@@ -35,8 +35,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeelnoohm" alt="GitHub Streak Stats"/>
 </p>
-
-
-
-
-
