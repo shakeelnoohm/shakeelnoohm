@@ -32,10 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakeelnoohm&show_icons=true&locale=en&layout=compact" alt="shakeelnoohm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakeelnoohm&show_icons=true&locale=en" alt="shakeelnoohm" /></p>
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@b1ae4f48-d126-4ec8-aadf-a3559560693a&layout=compact&hide_border=true&theme=radical" alt="WakaTime stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeelnoohm" alt="GitHub Streak Stats"/>
 </p>
