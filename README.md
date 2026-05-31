@@ -103,7 +103,7 @@ making emergency blood access faster within campus communities.
 ### ⏰ [TimePilot](https://github.com/shakeelnoohm/TimePilot-An-Automatic-TimeTable-Scheduler) — Automatic Timetable Scheduler
 Automatically generates conflict-free academic timetables by considering faculty availability, subject requirements, and classroom constraints — reducing manual scheduling effort for institutions.
 
-`React``TypeScript`
+`React` `TypeScript`
 → [View repo](https://github.com/shakeelnoohm/TimePilot-An-Automatic-TimeTable-Scheduler)
 
 ---
