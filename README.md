@@ -148,10 +148,13 @@ equipment availability across departments.
 
 <!-- Contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shakeelnoohm.github.io/snk/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://shakeelnoohm.github.io/snk/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake"
+    src="https://raw.githubusercontent.com/shakeelnoohm/shakeelnoohm/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 ---
 
 *Always open to interesting projects and collaborations — feel free to reach out.*
