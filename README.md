@@ -103,15 +103,10 @@ equipment availability across departments.
 
 ## 📊 GitHub Stats
 
-<!-- Trophy shelf -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakeelnoohm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
 <!-- Stats cards -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shakeelnoohm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeelnoohm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shakeelnoohm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeelnoohm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <!-- Streak -->
