@@ -91,16 +91,6 @@ and workflow automation. Reduces manual HR effort with LLM-driven insights.
 
 ---
 
-### 📦 [CTracker](https://github.com/shakeelnoohm/CTracker) — Asset Management System
-Web app for tracking and managing assets in technical institutes. Optimizes
-resource allocation and gives admins real-time visibility into equipment
-availability across departments.
-
-`React` `Node.js` `MongoDB` `Express`
-→ [View repo](https://github.com/shakeelnoohm/CTracker)
-
----
-
 ### 🩸 [Campus Blood Connect](https://github.com/shakeelnoohm/Campus-Blood-Connect) — Blood Donation Network
 Connects blood donors and recipients within college campuses. Students can
 register as donors, post urgent requests, and find compatible donors nearby —
