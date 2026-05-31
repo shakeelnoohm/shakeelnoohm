@@ -64,8 +64,6 @@ If you're working on something interesting, let's talk.
 
 ## 🚀 Projects I've built
 
-## 🚀 Projects I've built
-
 ### 🏫 [HallEase](https://github.com/shakeelnoohm/HallEase-Exam-Hall-Allocater) — Exam Hall Allocation System
 Automates how colleges assign students to exam halls. Smart seating algorithm
 interleaves departments so no two students from the same class sit adjacent.
