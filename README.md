@@ -100,6 +100,13 @@ making emergency blood access faster within campus communities.
 → [View repo](https://github.com/shakeelnoohm/Campus-Blood-Connect)
 
 ---
+### ⏰ [TimePilot](https://github.com/shakeelnoohm/TimePilot-An-Automatic-TimeTable-Scheduler) — Automatic Timetable Scheduler
+Automatically generates conflict-free academic timetables by considering faculty availability, subject requirements, and classroom constraints — reducing manual scheduling effort for institutions.
+
+`React``TypeScript`
+→ [View repo](https://github.com/shakeelnoohm/TimePilot-An-Automatic-TimeTable-Scheduler)
+
+---
 
 ### 📈 [Finora](https://github.com/shakeelnoohm/Finora-Stock-Market-Predictor) — Stock Market Predictor
 Stock market prediction platform with data visualization and AI-driven
