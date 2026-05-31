@@ -58,36 +58,66 @@ If you're working on something interesting, let's talk.
 
 ## 🚀 Projects I've built
 
-### 🏫 [HallEase](https://github.com/shakeelnoohm/HallEase-Exam-Hall-Allocater) — Exam Hall Allocation System
-A full MERN stack system that automates how colleges assign students to exam
-halls. Features a smart seating algorithm that interleaves departments so no
-two students from the same class sit adjacent, QR-based check-in for
-invigilators, email notifications with hall tickets, role-based access for
-admins and invigilators, PDF generation, and a visual room layout editor.
+## 🚀 Projects I've built
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` `jsPDF` `QR codes`  
+### 🏫 [HallEase](https://github.com/shakeelnoohm/HallEase-Exam-Hall-Allocater) — Exam Hall Allocation System
+Automates how colleges assign students to exam halls. Smart seating algorithm
+interleaves departments so no two students from the same class sit adjacent.
+Features QR-based check-in, email notifications with hall tickets, role-based
+access, PDF generation, and a visual room layout editor.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` `jsPDF` `QR codes`
 → [View repo](https://github.com/shakeelnoohm/HallEase-Exam-Hall-Allocater)
 
 ---
 
 ### 🏠 [RentNest](https://github.com/shakeelnoohm/RentNest-Paying-Guest-Rent-Manager) — Paying Guest & Rent Manager
-A production-ready property management platform for PG owners. Handles tenant
-onboarding with KYC, automated monthly invoicing, Razorpay payment integration,
-complaint ticketing, maintenance tracking, utility meter readings, meal plan
-subscriptions, and a full analytics dashboard. Three roles: Owner, Manager,
-and Tenant — each with their own portal.
+Production-ready property management platform for PG owners. Handles tenant
+onboarding with KYC, automated monthly invoicing, Razorpay payments, complaint
+ticketing, maintenance tracking, utility meter readings, meal plan subscriptions,
+and a full analytics dashboard. Three roles: Owner, Manager, and Tenant.
 
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `NextAuth.js` `Razorpay` `shadcn/ui`  
+`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `NextAuth.js` `Razorpay` `shadcn/ui`
 → [View repo](https://github.com/shakeelnoohm/RentNest-Paying-Guest-Rent-Manager)
 
 ---
 
 ### 🤖 [AI-HR-Suite](https://github.com/shakeelnoohm/AI-HR-Suite) — AI-Powered HR Platform
-A Next.js + TypeScript HR suite with AI capabilities. Handles resume
-processing, candidate evaluation, and HR workflow automation.
+HR platform with AI capabilities for resume screening, candidate evaluation,
+and workflow automation. Reduces manual HR effort with LLM-driven insights.
 
-`Next.js` `TypeScript` `AI/LLM integration`  
+`Next.js` `TypeScript` `AI/LLM integration`
 → [View repo](https://github.com/shakeelnoohm/AI-HR-Suite)
+
+---
+
+### 📦 [CTracker](https://github.com/shakeelnoohm/CTracker) — Asset Management System
+Web app for tracking and managing assets in technical institutes. Optimizes
+resource allocation and gives admins real-time visibility into equipment
+availability across departments.
+
+`React` `Node.js` `MongoDB` `Express`
+→ [View repo](https://github.com/shakeelnoohm/CTracker)
+
+---
+
+### 🩸 [Campus Blood Connect](https://github.com/shakeelnoohm/Campus-Blood-Connect) — Blood Donation Network
+Connects blood donors and recipients within college campuses. Students can
+register as donors, post urgent requests, and find compatible donors nearby —
+making emergency blood access faster within campus communities.
+
+`React` `Node.js` `MongoDB` `Express`
+→ [View repo](https://github.com/shakeelnoohm/Campus-Blood-Connect)
+
+---
+
+### 📈 [Finora](https://github.com/shakeelnoohm/Finora-Stock-Market-Predictor) — Stock Market Predictor
+Stock market prediction platform with data visualization and AI-driven
+forecasting. Helps users track market trends and get predictive insights
+on stock performance.
+
+`Next.js` `TypeScript` `AI/ML`
+→ [View repo](https://github.com/shakeelnoohm/Finora-Stock-Market-Predictor)
 
 ---
 
